@@ -1,1 +1,10 @@
 streamlit
+pandas
+numpy
+scikit-learn
+umap-learn
+pillow
+astropy
+vispy
+PyQt6
+jplephem
